@@ -53,3 +53,22 @@ Here’s my stack: the technologies I work with regularly, plus a few I’ve exp
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+---
+
+## 🎨 Projects
+
+### <a href="https://phansite.onrender.com">🎭 Persona 5: Phansite</a>
+
+A recreation of the website featured in the famous videogame Persona 5, built from scratch, showcasing its iconic style. 
+
+**Features:**
+- Live poll and comments system
+- Mementos petition system
+- User chat
+- Music player
+- Roles with different actions based on the user
+
+Check the [repository](https://github.com/mincxnta/phansite) or try the [live demo](https://phansite.onrender.com)!
+
+
