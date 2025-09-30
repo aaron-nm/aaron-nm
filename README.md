@@ -2,6 +2,7 @@
 
 ## 🚀 About Me
 I am a Web Developer who aims to create visually stunning, user-friendly interfaces with their own unique atmosphere.
+<br>
 Here’s my stack: the technologies I work with regularly, plus a few I’ve explored along the way.
 
 ## 👨‍💻 Programming Languages
