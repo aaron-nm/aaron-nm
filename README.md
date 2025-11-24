@@ -71,4 +71,17 @@ A recreation of the website featured in the famous videogame Persona 5, built fr
 
 Check the [repository](https://github.com/mincxnta/phansite) or try the [live demo](https://phansite.onrender.com)!
 
+---
+
+### <a href="https://aaron-nm.github.io/plumber-test/">🌌 Super Mario Galaxy Fan Page</a>
+
+A fan-made webpage recreating the Super Mario Galaxy universe with interactive elements, fully responsive and visually engaging.
+
+**Features:**
+- Responsive design for mobile, tablet, and desktop
+- Explore the origins of Rosalina’s story through an interactive flipbook
+- Carousel displaying different worlds
+- Interactive Power-Up showcase with modal details
+
+Check the [repository](https://github.com/aaron-nm/plumber-test) or try the [live demo](https://aaron-nm.github.io/plumber-test/)!
 
